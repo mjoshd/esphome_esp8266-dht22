@@ -1,4 +1,4 @@
-# esp8266_dht22
+# DIY Temperature/Humidity Sensor
 
 Device links:
 
