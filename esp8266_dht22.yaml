@@ -9,7 +9,7 @@ esphome:
   # https://esphome.io/components/esphomeyaml
   name: ${device_name}
   platform: ESP8266
-  board: d1_mini
+  board: nodemcuv2
 
 
 wifi:
@@ -34,7 +34,7 @@ logger:
 
 
 api:
-  # password: !secret esphome_api_password
+  password: !secret esphome_api_password
   # https://esphome.io/components/api
 
 
