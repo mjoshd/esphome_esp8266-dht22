@@ -2,9 +2,9 @@
 
 Device links:
 
-[ESP8266 (Amazon)](https://www.amazon.com/gp/product/B010N1SPRK)
+[ESP8266 (Amazon)](https://www.amazon.com/gp/product/B010N1SPRK/ref=as_li_tl?ie=UTF8&tag=mjoshd-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B010N1SPRK&linkId=4366764e555d10b42f8ec69908d7664b)
 
-[DHT22 (Amazon)](https://www.amazon.com/gp/product/B073F472JL)
+[DHT22 (Amazon)](https://www.amazon.com/gp/product/B073F472JL/ref=as_li_tl?ie=UTF8&tag=mjoshd-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B073F472JL&linkId=558b425d6a8ee4d20d68bdd29fa1eac2)
 
 <br>
 
